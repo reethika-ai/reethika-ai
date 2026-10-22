@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**reethika-ai/reethika-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Reethika Gunna 👋
 
-Here are some ideas to get you started:
+### Aspiring AI/ML Engineer | B.Tech CSE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in building practical
+AI/ML applications and solving real-world problems.
+
+-  Interested in Machine Learning and Generative AI
+-  Working with Python and machine learning tools
+-  Building AI-powered applications and APIs
+-  Learning through hands-on projects
+
+## Featured Projects
+
+### Loan Default Prediction System
+A machine learning project for loan outcome prediction,
+model evaluation and API-based inference.
+
+[View Project](https://github.com/reethika-ai/loan-default-prediction-system)
+
+### AI Socratic DSA Assistant
+An AI-powered learning application designed to help
+students understand data structures and algorithms.
+
+[View Project](https://github.com/reethika-ai/ai-socratic-dsa-assistant)
+
+## Technical Skills
+
+- Languages: Python, Java
+- Machine Learning: Scikit-learn
+- Backend: FastAPI
+- Tools: Git and GitHub
+- Interests: Generative AI and AI applications
+
+## Connect With Me
+
+- GitHub: https://github.com/reethika-ai
+- LinkedIn: www.linkedin.com/in/reethikagunna
+
+
+
